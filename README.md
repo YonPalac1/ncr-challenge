@@ -17,6 +17,8 @@
 
 ***
 ### Preview
+<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview1.png?raw=true" />
+<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview2.png?raw=true" />
 
 ***
 ### Contactame
