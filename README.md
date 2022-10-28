@@ -14,14 +14,14 @@
 ### Tambien puedes ver la aplicación desplegada aqui
 <a href="">Ir a la pagina</a>
 
+***
+### Contactame
+- cel: 11 3936 6942
+- linkedin: <a href="https://www.linkedin.com/in/palacios-yonatan/">Jonatan Palacios</a>
+- email: palaciosjonatan.dev@gmail.com
 
 ***
 ### Preview
 <img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview1.png?raw=true" />
 <img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview2.png?raw=true" />
 
-***
-### Contactame
-cel: 11 3936 6942
-linkedin: <a href="https://www.linkedin.com/in/palacios-yonatan/">Jonatan Palacios</a>
-email: palaciosjonatan.dev@gmail.com
