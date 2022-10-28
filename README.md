@@ -12,7 +12,7 @@
 
 ***
 ### Tambien puedes ver la aplicación desplegada aqui
-<a href="">Ir a la pagina</a>
+<a href="https://ncr-challenge.vercel.app/">Ir a la pagina</a>
 
 ***
 ### Contactame
@@ -22,6 +22,6 @@
 
 ***
 ### Preview
-<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview1.png?raw=true" />
-<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview2.png?raw=true" />
+<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview1.png?raw=true" width="250px" />
+<img src="https://github.com/YonPalac1/ncr-challenge/blob/master/public/preview/preview2.png?raw=true" width="250px" />
 
