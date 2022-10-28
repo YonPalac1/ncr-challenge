@@ -7,6 +7,19 @@
 - npm install (Dentro de la carpeta clonada)
 - npm run dev
 
-<p>La aplicación se deberia abrir en el siguiente <a href="http://127.0.0.1:5173/" target="_blank">puerto</a>
+<p>La aplicación se deberia abrir en el siguiente puerto</p>
 <a href="http://127.0.0.1:5173/" target="_blank">http://127.0.0.1:5173/</a>
 
+***
+### Tambien puedes ver la aplicación desplegada aqui
+<a href="">Ir a la pagina</a>
+
+
+***
+### Preview
+
+***
+### Contactame
+cel: 11 3936 6942
+linkedin: <a href="https://www.linkedin.com/in/palacios-yonatan/">Jonatan Palacios</a>
+email: palaciosjonatan.dev@gmail.com
