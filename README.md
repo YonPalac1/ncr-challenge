@@ -3,9 +3,15 @@
 ### Pasos para desplegar la aplicacióm en tu pc
 <p>Ejecuta los siguientes comandos en una terminal (Powershell, Git bash, etc)</p>
 
+<code>
 - git clone https://github.com/YonPalac1/ncr-challenge.git
-- npm install (Dentro de la carpeta clonada)
+</code>
+y dentro de la carpeta clonada los siguientes comandos
+<code>
+- npm install
 - npm run dev
+</code>
+
 
 <p>La aplicación se deberia abrir en el siguiente puerto</p>
 <a href="http://127.0.0.1:5173/" target="_blank">http://127.0.0.1:5173/</a>
