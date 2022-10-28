@@ -6,7 +6,8 @@
 <code>
 git clone https://github.com/YonPalac1/ncr-challenge.git
 </code>
-y dentro de la carpeta clonada los siguientes comandos
+
+<p>y dentro de la carpeta clonada los siguientes comandos</p>
 <code>
 npm install
 </code>
