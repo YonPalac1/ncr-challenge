@@ -11,6 +11,7 @@ git clone https://github.com/YonPalac1/ncr-challenge.git
 <code>
 npm install
 </code>
+</p>
 <code>
 npm run dev
 </code>
