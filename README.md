@@ -1,6 +1,6 @@
 # ncr-challenge
 ***
-### Pasos para desplegar la aplicacióm en tu pc
+### Pasos para desplegar la aplicación en tu pc
 <p>Ejecuta los siguientes comandos en una terminal (Powershell, Git bash, etc)</p>
 
 <code>
