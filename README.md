@@ -4,12 +4,14 @@
 <p>Ejecuta los siguientes comandos en una terminal (Powershell, Git bash, etc)</p>
 
 <code>
-- git clone https://github.com/YonPalac1/ncr-challenge.git
+git clone https://github.com/YonPalac1/ncr-challenge.git
 </code>
 y dentro de la carpeta clonada los siguientes comandos
 <code>
-- npm install
-- npm run dev
+npm install
+</code>
+<code>
+npm run dev
 </code>
 
 
