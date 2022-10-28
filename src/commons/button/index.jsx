@@ -28,7 +28,7 @@ const Button = ({ counts, setCurrent }) => {
   }
 
   return (
-    <div className="container_buttons">
+    <div className="container_buttons" data-testid="testId">
       {prevPage && (
         <div className="big-button bg-green" onClick={() => setPage(currentPage - 1)}>
           <h4>{'<<'} Opciones anteriores</h4>

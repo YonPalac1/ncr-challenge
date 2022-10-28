@@ -20,7 +20,7 @@ const App = () => {
   }, [current]);
 
   return (
-    <div className="body">
+    <div className="body" data-testid="appId">
       <Header />
       <Home title={current ? 'Este es tu saldo actual' : 'Selecciona la cuenta a consultar'}>
         {!current ?
